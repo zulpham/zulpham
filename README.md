@@ -33,7 +33,7 @@ Currently focusing on **AI Security** and **Scalable ML Architectures**.
 *Full-stack web application for managing government agendas and guest attendance.*
 - **Tech:** Laravel Framework, Tailwind CSS, QR Code Integration.
 - **Impact:** Digitized the attendance process for government employees and guests.
-- [View Repository](https://github.com/zulpham/UasPWeb2) 
+- [View Repository](https://github.com/willyachmadnn/Project) 
 
 ---
 
