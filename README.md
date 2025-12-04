@@ -27,13 +27,13 @@ Currently focusing on **AI Security** and **Scalable ML Architectures**.
 - **Tech:** Python, XGBoost, Scikit-learn.
 - **Impact:** Achieved a **0.91 Recall Score**, significantly improving the detection of potential defaulters.
 - **Key Skills:** Handling imbalanced data, Feature Engineering, Hyperparameter Tuning.
-> [View Project](#) *(Please upload your ID/X code and link it here)*
+> [View Project](https://github.com/zulpham/project_ds_loan_data)
 
 #### 🏛️ E-Agenda Government Portal (Internship @ DISKOMINFO)
 *Full-stack web application for managing government agendas and guest attendance.*
 - **Tech:** Laravel Framework, Tailwind CSS, QR Code Integration.
 - **Impact:** Digitized the attendance process for government employees and guests.
-- [View Repository](https://github.com/zulpham/UasPWeb2) *(Note: Rename this repo to 'E-Agenda-Portal' immediately)*
+- [View Repository](https://github.com/zulpham/UasPWeb2) 
 
 ---
 
