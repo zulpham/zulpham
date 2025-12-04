@@ -58,4 +58,4 @@ Currently focusing on **AI Security** and **Scalable ML Architectures**.
 
 ### 📫 Connect with Me
 
-* **LinkedIn:** [My Profile](www.linkedin.com/in/tehtradisional)
+* **LinkedIn:** [My Profile](https://www.linkedin.com/in/tehtradisional)
