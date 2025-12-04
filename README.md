@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Zulfahmi Aulawi 👋
+# Hi there,👋
 
 **Data Scientist | AI & Cloud Enthusiast | Certified Azure & Oracle Pro**
 
@@ -58,4 +58,4 @@ Currently focusing on **AI Security** and **Scalable ML Architectures**.
 
 ### 📫 Connect with Me
 
-* **LinkedIn:** [www.linkedin.com/in/tehtradisional]
+* **LinkedIn:** [My Profile](www.linkedin.com/in/tehtradisional)
